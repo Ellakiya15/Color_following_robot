@@ -31,10 +31,10 @@ Power down - L L ;
 100% - H H (recommended);
 
 #Callibration Callibrate the sensor by using callibration code... 
-#1.After Arduino , color sensor connection upload the callibration code. 
-#2.Note the minimum and maximum range values of all three colors RGB (red,green,blue).
+1.After Arduino , color sensor connection upload the callibration code. 
+2.Note the minimum and maximum range values of all three colors RGB (red,green,blue).
 
 #After motor arduino connection #color tracking 
-#1.Use the callibration values into this and change the code according to the sensor range (min - max values) 
-#2.Change the frequency scaling as per the convenient. 
-#3.run the code.
+1.Use the callibration values into this and change the code according to the sensor range (min - max values) 
+2.Change the frequency scaling as per the convenient. 
+3.run the code.
