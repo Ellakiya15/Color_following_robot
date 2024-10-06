@@ -42,6 +42,8 @@ Power down - L L ;
 20% - H L ;
 100% - H H (recommended);
 ```
+### Motor connection
+!()
 
 ### Callibration Callibrate the sensor by using callibration code... 
 ##### 1.After Arduino , color sensor connection upload the callibration code. 
