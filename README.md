@@ -43,13 +43,13 @@ Power down - L L ;
 100% - H H (recommended);
 ```
 ### Motor connection
-!()
+![motor connection](https://github.com/Ellakiya15/Color_following_robot/blob/main/motor_connection.png)
 
 ### Callibration Callibrate the sensor by using callibration code... 
-##### 1.After Arduino , color sensor connection upload the callibration code. 
-##### 2.Note the minimum and maximum range values of all three colors RGB (red,green,blue).
+1. After Arduino , color sensor connection upload the callibration code. 
+2. Note the minimum and maximum range values of all three colors RGB (red,green,blue).
 
 ### Color tracking 
-##### 1.Use the callibration values into this and change the code according to the sensor range (min - max values) 
-##### 2.Change the frequency scaling as per the convenient. 
-##### 3.run the code.
+1. Use the callibration values into this and change the code according to the sensor range (min - max values) 
+2. Change the frequency scaling as per the convenient. 
+3. Run the code.
